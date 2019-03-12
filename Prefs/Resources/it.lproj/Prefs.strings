@@ -1,0 +1,17 @@
+{
+  "ENABLED" = "Abilita";
+  "STU_TEXT" = "Testo";
+  "SLIDE_TO_UNLOCK" = "scorri per sbloccare";
+  "SHOW_CHEVRON" = "Mostra la freccia";
+  "DISABLE_HOME" = "Disabilita il pulsante home";
+  "DISABLE_SWIPE" = "Disabilita lo swipe up";
+  "RESPRING" = "Riavvia la SpringBoard";
+  "ARE_YOU_SURE_TO_RESET_PREFS" = "Sei sicuro di voler reimpostare tutte le tue impostazioni? Quest'azione non può essere annullata";
+  "OK" = "OK";
+  "CANCEL" = "Annulla";
+  "RESET_PREFS" = "Ripristina impostazioni e riavvia la SpringBoard";
+  "GITHUB" = "Github";
+  "SOURCE_CODE" = "Codice Sorgente";
+  "DONATE_TO_NEPETA" = "Dona a Nepeta";
+  "SUPPORT_ME" = "Supportami!";
+}
